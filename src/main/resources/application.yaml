@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: Studio Hebi Bot
+
+bot:
+  core:
+    token: ${BOT_CORE_TOKEN:}
+    application-id: ${BOT_CORE_APPLICATION_ID:}
+
+
+kind: Application

@@ -1,7 +1,9 @@
 package com.studio.hebi.bot;
 
+import io.github.yvancywan.anvilcord.core.AnvilCordPluginHost;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-@AnvilPluginHost
+@AnvilCordPluginHost
 public class Main {
 }
