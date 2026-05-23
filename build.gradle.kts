@@ -1,6 +1,6 @@
 plugins {
     id("java")
-    id("io.github.yvancywan.anvilcord") version "0.7.0"
+    id("io.github.yvancywan.anvilcord") version "0.14.0"
 }
 
 group = "com.studio-hebi"
